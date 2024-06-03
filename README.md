@@ -1,4 +1,4 @@
-# TinDog
+# TinDog - https://bharaths-github.github.io/Tindog-Frontend/
 
 TinDog is a fictional website designed to help dogs find companionship. This repository contains the code for the TinDog website.
 
